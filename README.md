@@ -17,9 +17,11 @@
 - Not a lecture, informal group learning & mentoring 
 - Side Product = Produce light learning materials so that knowledge sharing is easier
 
-### Part 1 
+### [Part 1](./ACME_Camp_site.md)
 
 Your team has been contracted by ACME Corp to create a Drupal 8 based website for their upcoming user conference ACME Camp. The site will be used primarily to market the conference, provide newsletter signups, allow user registration, collect and display session submissions.
+
+[Checkout the user stories and requirements](./ACME_Camp_site.md) for this site.
 
 ### Part 2 (if time)
 
