@@ -11,6 +11,20 @@
 * Download and install [Kalabox](http://www.kalabox.io/alpha-downloads?keycode=korobka-499829)
 * Go meet your team and pick a team name!
 
+### Goals for this study group
+
+- Acquire skills in D8 module & theme development by focusing on solving exercises  
+- Not a lecture, informal group learning & mentoring 
+- Side Product = Produce light learning materials so that knowledge sharing is easier
+
+### Part 1 
+
+Your team has been contracted by ACME Corp to create a Drupal 8 based website for their upcoming user conference ACME Camp. The site will be used primarily to market the conference, provide newsletter signups, allow user registration, collect and display session submissions.
+
+### Part 2 (if time)
+
+Help upgrade contrib module(s) from D7 to D8.
+
 
 ### [NYC Drupal 8 Study Group A](https://github.com/Drupal-NYC/nyc-drupal-8-study-group-a)
 #### Team
