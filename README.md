@@ -8,7 +8,7 @@
 ### Getting Started
 * Sign up for [Github](https://github.com/)
 * Sign up for [Pantheon](https://pantheon.io/)
-* Download and install [Kalabox](http://www.kalabox.io/alpha-downloads?keycode=korobka-499829)
+* Download and install [Kalabox](http://www.kalabox.io/alpha-downloads?keycode=korobka-499829) if you don't have a preferred setup for your local environment.
 * Go meet your team and pick a team name!
 
 ### Goals for this study group
