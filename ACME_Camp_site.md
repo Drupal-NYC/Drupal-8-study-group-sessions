@@ -22,7 +22,7 @@ Resources:
 - **Featurize** your content type.
 - A Session has:
   - Title (text, required)
-  - Status (**taxonomy reference term**, single value of: Submitted, Accepted, Rejected; required)
+  - Status (**taxonomy reference term** or a **list**, single value of: Submitted, Accepted, Rejected; required)
   - Description (rich text; optional)
   - Speaker (reference to User, multi-valued)
 
