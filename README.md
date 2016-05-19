@@ -27,11 +27,5 @@ Your team has been contracted by ACME Corp to create a Drupal 8 based website fo
 
 Help upgrade contrib module(s) from D7 to D8.
 
-
-### [NYC Drupal 8 Study Group A](https://github.com/Drupal-NYC/nyc-drupal-8-study-group-a)
-#### Team
-
-
-
 ### [NYC Drupal 8 Study Group B](https://github.com/Drupal-NYC/nyc-drupal-8-study-group-b)
 #### Team
